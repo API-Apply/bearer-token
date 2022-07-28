@@ -1,1 +1,1 @@
-Bearer token: 4p14ppl1
+Bearer Token: 4p14ppl1
